@@ -1,0 +1,22 @@
+{
+  "name": "weekend_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JbBerry/week05_weekend_hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JbBerry/week05_weekend_hw/issues"
+  },
+  "homepage": "https://github.com/JbBerry/week05_weekend_hw#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
